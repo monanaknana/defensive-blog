@@ -16,14 +16,14 @@ timezone:
 
 title: monatraee
 
-tagline: Documenting what I learn in offensive security so others can learn too. # it will display as the subtitle
+tagline: Documenting what I learn in defensive security so others can learn too. # it will display as the subtitle
 
 description: This is the place where I share useful notes and solutions I discovered during challenging times, so others facing the same problems can learn and benefit from them. :) Happy reading!
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://monanaknana.github.io"
-baseurl: "/monatraee.github.io"
+baseurl: "/defensive-blog"
 
 github:
   username: github_username # change to your GitHub username
