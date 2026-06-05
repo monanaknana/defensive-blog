@@ -5,7 +5,7 @@ categories: [SIEM]
 tags: [splunk, siem, ubuntu, linux, soc, monitoring, log-analysis]
 
 image:
-  path: /assets/img/posts/splunk/banner.png
+  path: /assets/img/posts/splunk/splunk.png
   alt: Splunk Enterprise Installation Guide on Ubuntu Linux
 ---
 
